@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "New Tegomin", serif;
+}
+.heading {
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(10, 10, 10);
+    color: whitesmoke;
+}
